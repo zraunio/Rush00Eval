@@ -8,11 +8,18 @@ uncomment relevant test in compare.sh according to the type of rush the group ha
 
 test values are currently:
 
--12 -3\n
-0 0\n
-0 1\n
-1 1 \n
-20 -3\n
-30 8\n
-50 50\n
-100 101\n
+-12 -3
+
+0 0
+
+0 1
+
+1 1
+
+20 -3
+
+30 8
+
+50 50
+
+100 101
