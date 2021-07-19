@@ -6,7 +6,7 @@
 #    By: zraunio <zraunio@student.hive.fi>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/05/28 11:28:59 by zraunio           #+#    #+#              #
-#    Updated: 2021/05/28 12:04:10 by zraunio          ###   ########.fr        #
+#    Updated: 2021/07/12 12:05:22 by zraunio          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -49,7 +49,7 @@ all:
 	$(CC) $(CFLGS) $(SRC) $(R4) -o $(N4)
 
 piscine: 
-	# $(CC) $(CFLGS) ex00/*.c -o $(T0)
+	$(CC) $(CFLGS) ex00/*.c -o $(T0)
 	# $(CC) $(CFLGS) ex00/*.c -o $(T1)
 	# $(CC) $(CFLGS) ex00/*.c -o $(T2)
 	# $(CC) $(CFLGS) ex00/*.c -o $(T3)
